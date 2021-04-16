@@ -1,5 +1,5 @@
 # hapi-saml-sp-demo
-This is a barebones hapipal-based demo app to show a basic SAML integration with samltest.id.
+This is a barebones [hapipal](https://hapipal.com/)-based demo app to show a basic SAML integration with samltest.id using the [hapi-saml-sp](https://github.com/theoryandprinciple/hapi-saml-sp) plugin.
 
 The repo contains a .key and .cert, so it should be ready to use, but I've also included the `keycreate.sh` script to generate your own key/cert pairs.
 
