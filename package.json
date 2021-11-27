@@ -26,7 +26,7 @@
     "@hapi/eslint-plugin-hapi": "4.x.x",
     "@hapi/glue": "8.x.x",
     "@hapi/hapi": "20.x.x",
-    "@hapi/lab": "24.x.x",
+    "@hapi/lab": "24.3.2",
     "@hapipal/confidence": "6.x.x",
     "@hapipal/hpal": "3.x.x",
     "@hapipal/hpal-debug": "2.x.x",
