@@ -15,26 +15,25 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@hapi/boom": "9.1.4",
-    "@hapipal/haute-couture": "4.x.x",
-    "hapi-saml-sp": "^0.1.2",
-    "joi": "17.x.x"
+    "@hapi/boom": "^10.0.0",
+    "@hapipal/haute-couture": "^4.2.0",
+    "joi": "^17.6.3"
   },
   "devDependencies": {
-    "@hapi/code": "8.x.x",
-    "@hapi/eslint-config-hapi": "13.x.x",
-    "@hapi/eslint-plugin-hapi": "4.x.x",
-    "@hapi/glue": "8.x.x",
+    "@hapi/code": "^9.0.1",
+    "@hapi/eslint-plugin": "^6.0.0",
+    "@hapi/glue": "^8.0.0",
     "@hapi/hapi": "^20.2.2",
-    "@hapi/lab": "^24.3.2",
-    "@hapipal/confidence": "6.x.x",
-    "@hapipal/hpal": "3.x.x",
-    "@hapipal/hpal-debug": "2.x.x",
-    "@hapipal/toys": "3.x.x",
-    "babel-eslint": "10.x.x",
+    "@hapi/lab": "^25.0.1",
+    "@hapipal/confidence": "^6.0.2",
+    "@hapipal/hpal": "^3.1.0",
+    "@hapipal/hpal-debug": "^2.0.0",
+    "@hapipal/toys": "^3.1.0",
+    "@babel/eslint-parser": "^7.19.1",
     "dotenv": "^8.6.0",
-    "eslint": "^7.32.0",
-    "exiting": "6.x.x"
+    "eslint": "^8.25.0",
+    "exiting": "^6.1.0",
+    "hapi-saml-sp": "^0.1.5"
   },
   "repository": {
     "type": "git",

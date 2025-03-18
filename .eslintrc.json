@@ -1,6 +1,5 @@
 {
-  "extends": "@hapi/eslint-config-hapi",
-  "parser": "babel-eslint",
+  "extends": "plugin:@hapi/module",
   "parserOptions": {
     "ecmaVersion": 2020,
     "sourceType": "script"
